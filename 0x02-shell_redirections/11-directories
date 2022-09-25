@@ -1,3 +1,0 @@
-#!/bin/bash
-fing -type d -not -name - | wc -|
-find -type d -not -name - | wc -|
